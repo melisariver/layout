@@ -1,0 +1,67 @@
+.logo{
+max-width:30%;
+height:auto;
+margin-top:3%;
+margin-left:35%;
+}
+hr{
+max-width:50%;
+margin-top:1% ;
+}
+.small{
+float: left; 
+}
+.big{
+margin-left:27%;
+}
+div{ 
+list-style:none;
+position:relative;
+display:inline-block;
+text-align:center;
+font-style:bold;
+font-size: 1em;
+margin-left: 1%;
+
+}
+.group{
+max-width:50%;
+margin-top:2%;
+margin-left:25%;
+margin-bottom:2%; 
+}
+p{
+text-align:center;
+font-size:1.5em;
+}
+h1{
+margin-top:5% ;
+margin-left:21%;
+}
+.img{
+opacity:0.6;
+margin-top:5%; 
+margin-right:6%;
+}
+.color{
+color:#FFFFFF;
+position:absolute;
+right:0;
+bottom:0;
+z-index:1;
+margin-left:1%;
+}
+.margin{
+margin-left:21%;
+margin-right:6%;	
+}
+.black{
+background-color: black;
+height:.3em;
+width:5em;
+background-color:#000000;
+}
+.one{
+height:.5em;
+margin-left:21%
+}
